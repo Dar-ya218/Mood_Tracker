@@ -19,3 +19,9 @@ Ever wanted to track your moods but thought mood trackers were too... serious? W
    python mood_tracker.py
    ```
    (Warning: May cause excessive self-reflection and uncontrollable giggling)
+
+## 🎯 Pro Tips for Maximum Drama
+- Be honest with your moods (the app knows when you're lying)
+- Rate your mood from 1-5 (like rating your ex, but more scientific)
+- Read the sassy comments (they're here to help, sort of)
+- Don't take it too seriously (I certainly don't)
