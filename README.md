@@ -32,3 +32,12 @@ Ever wanted to track your moods but thought mood trackers were too... serious? W
 - Laughing at your own mood swings
 - Actually understanding your feelings (scary, we know)
 - Excessive use of emojis in regular conversations
+
+## 🏆 Reviews from "Totally Real" Users
+"Finally, an app that judges me as much as my mother!" - Emotional User
+"5/5 would have mood swings again!" - Stable Stan
+"Better than therapy! (Just kidding, please go to therapy)" - Wise William
+"It's like having a sassy best friend in your computer!" - Lonely Larry
+
+Made with 💻 and questionable emotional intelligence.
+(No feelings were harmed in the making of this app)
