@@ -25,3 +25,10 @@ Ever wanted to track your moods but thought mood trackers were too... serious? W
 - Rate your mood from 1-5 (like rating your ex, but more scientific)
 - Read the sassy comments (they're here to help, sort of)
 - Don't take it too seriously (I certainly don't)
+
+## ⚠️ Side Effects May Include
+- Sudden urges to rate everything on a scale of 1-5
+- Developing a relationship with an app (we won't judge)
+- Laughing at your own mood swings
+- Actually understanding your feelings (scary, we know)
+- Excessive use of emojis in regular conversations
